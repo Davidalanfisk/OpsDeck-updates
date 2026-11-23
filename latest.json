@@ -1,15 +1,15 @@
 {
-  "version": "0.6.5",
-  "sha256": "6b0e55a282fba25c0c32e1ae9782db49aa8cc62ca96a37e7ea00222f8b9a84ad",
-  "url": "https://raw.githubusercontent.com/Davidalanfisk/OpsDeck-updates/main/packages/OpsDeck-0.6.5-source.json.gz",
+  "version": "0.6.6",
+  "sha256": "bca1f7de8e383d220acfbbe1f5b481bf2fe1a997c9dddcb8a848eddda7c09738",
+  "url": "https://raw.githubusercontent.com/Davidalanfisk/OpsDeck-updates/main/packages/OpsDeck-0.6.6-source.json.gz",
   "portable": {
     "mac-arm64": {
-      "url": "https://github.com/Davidalanfisk/OpsDeck/releases/download/v0.6.5/OpsDeck-0.6.5-mac-arm64.zip",
-      "sha256": "76c5f093de20864f62f77e531baa5069f1cc8bc539b7567b7a6b8300c952875e"
+      "url": "https://github.com/Davidalanfisk/OpsDeck/releases/download/v0.6.6/OpsDeck-0.6.6-mac-arm64.zip",
+      "sha256": "4861709211bd0def84807a2559f4135445114f1783d048524fea76ee834de7d6"
     },
     "win-x64": {
-      "url": "https://github.com/Davidalanfisk/OpsDeck/releases/download/v0.6.5/OpsDeck-0.6.5-win-x64.zip",
-      "sha256": "8a9735603c1bc7afe19e326c18f70eae23daa72f29ca163a4f690a99f5437b1e"
+      "url": "https://github.com/Davidalanfisk/OpsDeck/releases/download/v0.6.6/OpsDeck-0.6.6-win-x64.zip",
+      "sha256": "178b8f12bfaa64effcd5974d60edde064448fd54fe854d0bc3201cb0c223f565"
     }
   }
 }
